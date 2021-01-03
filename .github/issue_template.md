@@ -45,7 +45,7 @@ assignees: ArminJo
 ### Pin(s) used for servo, if not default
 
 ### Version
-* [ ] Yes I use the [latest release](https://github.com/ArminJo/ServoEasing/releases)
+* [ ] Yes I use the [latest repo version](https://github.com/ArminJo/ServoEasing/archive/master.zip) and verified this!
 * [ ] Other - please specify
 
 ### Current behavior

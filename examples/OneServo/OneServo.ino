@@ -177,7 +177,7 @@ void loop() {
     Serial.println(F("Move from 180 to 0 degree with 360 degree per second using interrupts"));
 #endif
     /*
-     * If you comment out the line
+     * If you activate the line
      * #define ENABLE_MICROS_AS_DEGREE_PARAMETER
      * in ServoEasing.h, you can specify the target angle directly as microseconds here
      */
